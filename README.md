@@ -3,6 +3,8 @@
 
 [DockerHub Link](https://hub.docker.com/r/kleprevost/hashtopolis-hashcat-salad)
 
+[Blog Writeup](https://hardcidr.com/posts/saladcat/)
+
 ## Overview
 SaladCat provides a convenient way to quickly scale hashcat deployments on Salad Cloud and Hashtopolis. Salad Cloud offers an affordable and efficient platform with access to a large pool of consumer-grade GPUs, making it ideal for this type of work.
 
